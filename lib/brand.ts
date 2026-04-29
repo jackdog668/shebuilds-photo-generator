@@ -3,11 +3,12 @@
  * Mirrored from shebuilds-digital. Keep in sync.
  */
 export const brand = {
-  name: "SheBuilds Pattern Generator",
+  name: "SheBuilds Photo Generator",
   parent: "SheBuilds Digital",
-  tagline: "Seamless tiling patterns. Damask to deco.",
+  toolNoun: "Photos",
+  tagline: "Photo-real prompts for stock and Etsy mockups.",
   subTagline:
-    "Vector-perfect, KDP-ready, and free forever. Make. Ship. Sell.",
+    "Pick the lighting. Set the scene. Copy the prompt — paste into your AI image tool.",
   links: {
     home: "https://shebuildsdigital.com",
     school: "https://beacons.ai/dbcreations",
